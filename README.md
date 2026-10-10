@@ -21,9 +21,9 @@
 | FUNC-004 | Functional/UI | Ошибка управления стрелками в меню паузы | Major | Medium | [Открыть](BugReports/FUNC_004_Menu_Overlay_Error.md) |
 | FUNC-005 | Functional/UI | Блокировка снимков экрана | Minor | Low | [Открыть](BugReports/FUNC_005_Screenshot_Block.md) |
 | FUNC-007 | Functional/UI | Невозможно пропустить анимацию появления предметов в лавке | Major | Medium | [Открыть](BugReports/FUNC_007_Cant_Skip_Animation.md) |
-| FUNC-009 | Functional | Полное зависание игры при старте «Новой игры +» | Minor | Low | [Открыть](BugReports/FUNC_009_NewGame+_Crash.md) |
+| FUNC-009 | Functional | Полное зависание игры при старте «Новой игры +» | Critical | High | [Открыть](BugReports/FUNC_009_NewGame+_Crash.md) |
 | PERF-010 | Performance | Низкий FPS в диалогах и геймплее | Minor | Low | [Открыть](BugReports/PERF_010_FPS_Drop.md) |
-| UI-002 | UI | Нежданный отклик интерфейса в инвентаре | Major | Medium | [Открыть](BugReports/UI_002_Inventory_Visual_Bug.md) |
+| UI-002 | UI | Неожиданный отклик интерфейса в инвентаре | Major | Medium | [Открыть](BugReports/UI_002_Inventory_Visual_Bug.md) |
 | UI-003 | UI | Нарушена степень пикселизации в сцене 1 | Major | High | [Открыть](BugReports/UI_003_Pixel_Text_View.md) |
 | UI-006 | UI | Пиксельное отображение мечей в инвентаре | Major | Medium | [Открыть](BugReports/UI_006_Knife_Visual_After_Buying.md) |
 | UI-008 | UI | Плавающая кнопка паузы | Major | Medium | [Открыть](BugReports/UI_008_Unsecured_Pause_Button.md) |
