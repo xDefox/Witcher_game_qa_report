@@ -1,9 +1,9 @@
-# FB005 [Functional/Engnie] - Блоиковровка любых скриншотов
+# FUNC-005: [Functional/UI] Блокировка любых скриншотов
 
 ## Основная информация
 | Поле | Значение |
 |---|---|
-| **ID** | FB-005 |
+| **ID** | FUNC-005 |
 | **Тип** | UI / Functional |
 | **Severity** | Minor |
 | **Priority** | Low |

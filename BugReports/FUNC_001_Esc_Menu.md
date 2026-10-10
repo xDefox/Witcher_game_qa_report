@@ -1,9 +1,9 @@
-# UI-001: [Functional/UI] Отклик на Esc
+# FUNC-001: [Functional/UI] Отклик на Esc
 
 ## Основная информация
 | Поле | Значение |
 |---|---|
-| **ID** | UI-001 |
+| **ID** | FUNC-001 |
 | **Тип** | UI / Functional |
 | **Severity** | Major |
 | **Priority** | Medium |
